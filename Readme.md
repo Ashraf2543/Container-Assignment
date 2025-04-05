@@ -60,7 +60,7 @@ students:
 python app.py
 ```
 <p align="center">
-  <img src="https://github.com/Himanshu5619/Docker-Container/blob/main/Python_Yaml/Screenshot%202025-04-01%20174312.png">
+  <img src="https://github.com/Ashraf2543/Container-Assignment/blob/main/Screenshot%201.png">
 </p>
 
 --------
